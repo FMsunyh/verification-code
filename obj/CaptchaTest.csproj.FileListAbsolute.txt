@@ -1,0 +1,8 @@
+E:\FMsunyh\CaptchaTest\obj\Debug\ResolveAssemblyReference.cache
+E:\FMsunyh\CaptchaTest\obj\Debug\CaptchaTest.Properties.Resources.resources
+E:\FMsunyh\CaptchaTest\obj\Debug\CaptchaTest.csproj.GenerateResource.Cache
+E:\FMsunyh\CaptchaTest\bin\Debug\CaptchaTest.exe
+E:\FMsunyh\CaptchaTest\bin\Debug\CaptchaTest.pdb
+E:\FMsunyh\CaptchaTest\obj\Debug\CaptchaTest.exe
+E:\FMsunyh\CaptchaTest\obj\Debug\CaptchaTest.pdb
+E:\FMsunyh\CaptchaTest\obj\Debug\CaptchaTest.Form1.resources
